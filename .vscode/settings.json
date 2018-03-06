@@ -6,13 +6,13 @@
             "name": "Build Go project",
             "color": "white",
             "singleInstance": true,
-            "command": "go build -o bin\\main.exe .\\src\\main.go",
+            "command": "clear; go build -o bin\\main.exe .\\src\\main.go",
         },
         {
             "name": "Run Go project",
             "color": "yellow",
             "singleInstance": true,
-            "command": "go run .\\src\\main.go",
+            "command": "clear; go run .\\src\\main.go",
         }
     ]
   },
