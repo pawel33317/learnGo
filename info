@@ -1,0 +1,4 @@
+program zaczyna się w pkg main
+pkg iest takie samo jak ostatni element w import
+
+eksportowane są nazwy z dużych liter, więc przy imporcie można tylko ich użyć
