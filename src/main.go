@@ -1,13 +1,8 @@
 package main
 
-import (
-	"fmt"
-)
-
-func add(x int, y int) int {
-	return x + y
-}
+import "./basic"
 
 func main() {
-	fmt.Printf("Sum = %d", add(4, 5))
+	basic.TestFunctions()
+	basic.TestVariables()
 }
