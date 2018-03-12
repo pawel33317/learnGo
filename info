@@ -2,3 +2,13 @@ program zaczyna się w pkg main
 pkg iest takie samo jak ostatni element w import
 
 eksportowane są nazwy z dużych liter, więc przy imporcie można tylko ich użyć
+
+
+Ctrl-Shift-P – Znajdź komendę
+Ctrl+E oraz Ctrl-P – otwórz szybko plik, VS Code szuka pliku w katalogach projektu.
+Alt-Z – Włącz/Wyłącz zawijanie wierszy
+
+Shift-Alt-F – Sformatuj kod
+F11 – Tryb pełnoekranowy
+Ctrl+Shift+T – ponownie otwiera ostatni zamknięty plik.
+Ctrl-Shift-~ – otwiera konsole
